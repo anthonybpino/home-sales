@@ -14,6 +14,7 @@ Jupyter notebook created in Google Colaboratory. Link to specific notebook is lo
 ## Notes & Resources:
 
 Dataset used was provided by Rutgers University: 
+<br>
 https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv
 
 ![Apache_Spark_logo svg](https://github.com/anthonybpino/home-sales/assets/112681621/1209cbde-7daf-4579-a3de-3e32411432dc)
